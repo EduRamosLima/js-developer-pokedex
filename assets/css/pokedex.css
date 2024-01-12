@@ -91,7 +91,7 @@
     text-align: right;
 }
 
-.pokemon .orderNumber {
+.pokemon .order-number {
     display: inline-block;
     background-color: rgba(255, 255, 255, 0.5);
     width: 2rem;

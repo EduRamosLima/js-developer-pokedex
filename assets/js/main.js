@@ -9,7 +9,7 @@ function convertPokemonToLi(pokemon) {
     return `
         <li class="pokemon ${pokemon.type}">
             <span class="number">
-                <span class="orderNumber">#${pokemon.orderNumber}</span>
+                <span class="order-number">#${pokemon.orderNumber}</span>
             </span>
             <span class="name">${pokemon.name}</span>
 
@@ -19,7 +19,7 @@ function convertPokemonToLi(pokemon) {
                 </ol>
 
                 <img src="${pokemon.photo}"
-                     alt="${pokemon.name}">
+                    alt="${pokemon.name}">
             </div>
         </li>
     `
