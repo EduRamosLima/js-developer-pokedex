@@ -6,4 +6,4 @@ Desafio adicionar detalhes sobre os Pokémons na Pokedex.
 - [Pokedex using js/pokeapi](https://js-developer-pokedex-rho.vercel.app/)
 
 ## 📷 Preview
-![Pokedex](https://github.com/EduRamosLima/js-developer-pokedex/assets/115575856/2071f312-69ad-4743-9614-b13bc428d2cb)
+![Pokedex](https://github.com/EduRamosLima/js-developer-pokedex/assets/115575856/a5f83148-29c4-4fc4-9b4e-67822f72d4a0)
