@@ -9,7 +9,7 @@ function convertPokemonToLi(pokemon) {
     return `
     <li class="pokemon ${pokemon.types.map((type) => type).join(' ')}">
         <span class="number">
-            <span class="order-number" id="pokemon-${pokemon.orderNumber}">#${pokemon.orderNumber}</span>
+            <span class="order-number" id="pokemon-${pokemon.orderNumber}">#${pokemon.orderNumber.toString().padStart(3, '0')}</span>
         </span>
         <span class="name">${pokemon.name}</span>
 
